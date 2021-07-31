@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham Sharma
-- 👀 my major Machine Learning
-- 🌱 I’m currently learning... cybersecurity and cyber attacks
+- 👀 minor Machine Learning
+- 🌱 I’m currently learning... cybersecurity and cyber attacks and Machine Learning.
 - 💞️ I’m looking to collaborate on AI machins and robots
 - 📫 How to reach me ... no need,i often you this so you can catch me here
 
